@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Frontend Dev💻.<br>Check my projects.
+Hi! I'm Frontend Dev👨‍🎨.<br>Check my projects.
 
 
 # 💻 Tech Stack:
