@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Frontend Dev👨‍🎨.<br>Browse my projects.
+Hi! I'm Frontend Dev👨‍🎨.<br> - ✅ Open to work - <br>Browse my projects.
 
 
 # 💻 Tech Stack:
